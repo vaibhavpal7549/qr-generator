@@ -12,8 +12,8 @@ Generate QR codes instantly for any text or URL, with a minimal and responsive U
 
 ---
 
-## 🚀 Live Demo  
-👉 **Add link here once uploaded (Netlify / Vercel / GitHub Pages)**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)]([https://your-demo-link-here.com](https://vaibhavpal7549.github.io/qr-generator/))
+
 
 ---
 
