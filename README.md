@@ -29,28 +29,12 @@ Generate QR codes instantly for any text or URL, with a minimal and responsive U
 
 ---
 
-
-## 📂 Project Structure
-
-index.html
-style.css
-script.js
-
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure  
 - **CSS3** – Styling  
 - **JavaScript (ES6)** – Logic  
 - **QR Code API / qrcode.js** (depending on your implementation)
-
----
-
-## 📸 Screenshot
-
-*(Add your project screenshot here)*
 
 ---
 
