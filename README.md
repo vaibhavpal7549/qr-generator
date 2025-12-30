@@ -47,6 +47,9 @@ Generate QR codes instantly for any text or URL, with a minimal and responsive U
 
 ---
 
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 📦 Installation (Local Setup)
 
 Clone the repository:
